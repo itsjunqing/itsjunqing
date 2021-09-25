@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jun Qing 👋
+
+- 🎓 A recent CS graduate of Monash University
+- 👨‍💻 Software Engineer 
+- 🔗 Connect me on [LinkedIn](https://www.linkedin.com/in/itsjunqing/)!
 
 <!--
 **itsjunqing/itsjunqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
