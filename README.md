@@ -10,9 +10,10 @@
 - Interned at [@MoneyLion](https://github.com/moneylion) on building bank/user account verification services
 
 ## Projects
-- [Alert detection distributed wireless sensor network](https://github.com/itsjunqing/alert-detection-distributed-wsn-mpi)
-- [Trick taking cards](https://github.com/itsjunqing/trick-taking-cards)
+- [Dokumental](https://github.com/itsjunqing/dokumental) 
 - [Tutor student matching app](https://github.com/itsjunqing/tutor-student-matching)
+- [Trick taking cards](https://github.com/itsjunqing/trick-taking-cards)
+- [Alert detection distributed wireless sensor network](https://github.com/itsjunqing/alert-detection-distributed-wsn-mpi)
 - [Asteroids gameplay](https://github.com/itsjunqing/asteriods)
 - [Web chat application](https://github.com/itsjunqing/sThrive)
 - [Self-hosted cloud storage guide](https://github.com/itsjunqing/tgf)
