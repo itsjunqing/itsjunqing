@@ -6,8 +6,8 @@
 - 🔗 Connect me on [LinkedIn](https://www.linkedin.com/in/itsjunqing/)!
 
 ## Experience 
-- Full-timer at [@DeliveryHero](https://github.com/deliveryhero) worked on building scalable backend services
-- Interned at [@MoneyLion](https://github.com/moneylion) on building bank/user account verification services
+- Interned at 🤔 [@Dealer-FX](https://www.dealer-fx.com) and Full-timer at 🍱 [@DeliveryHero](https://github.com/deliveryhero) worked on building scalable backend services
+- Interned at 🏦 [@MoneyLion](https://github.com/moneylion) on building bank/user account verification services
 
 ## Projects
 - [Dokumental](https://github.com/itsjunqing/dokumental) 
