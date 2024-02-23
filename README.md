@@ -1,12 +1,12 @@
 ## Hi there, Welcome to Jun's GitHub 👋
 - 🏫 Currently a Master's student at uWaterloo
-- ⚙️ Specializing in Systems, Databases and Software
+- ⚙️ Specializing in Systems, Programming and Software
 - ❤️‍🔥 Passsionate about building scalable back-end services
 - 🎓 Former CS graduate of Monash University
 - 🔗 Connect me on [LinkedIn](https://www.linkedin.com/in/itsjunqing/)!
 
 ## Experience 
-- Interned at 🤔 [@Dealer-FX](https://www.dealer-fx.com) and Full-timer at 🍱 [@DeliveryHero](https://github.com/deliveryhero) worked on building scalable backend services
+- Full-timer at 🍱 [@DeliveryHero](https://github.com/deliveryhero) worked on building scalable backend services
 - Interned at 🏦 [@MoneyLion](https://github.com/moneylion) on building bank/user account verification services
 
 ## Projects
